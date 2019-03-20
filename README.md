@@ -30,10 +30,10 @@ Example:
 
 Prerequisites:
 - Python 3.6.5
-- numpy==1.15.4
-- scikit-image==0.14.0
-- scipy==1.2.1
-- matplotlib==3.0.3
+- numpy 1.15.4
+- scikit-image 0.14.0
+- scipy 1.2.1
+- matplotlib 3.0.3
 
 
 **********************************************************************
